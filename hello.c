@@ -3,7 +3,7 @@
 /*<=======>*/
 
 int main() {
-    printf("Hello world branch 2\n");
+    printf("Hello world branch 1\n");
     return 0;
 }
 
