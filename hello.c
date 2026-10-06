@@ -3,7 +3,7 @@
 /*<=======>*/
 
 int main() {
-    printf("Hello world\nshould generate a merge conflict\n");
+    printf("Hello world branch 1\n");
     return 0;
 }
 
